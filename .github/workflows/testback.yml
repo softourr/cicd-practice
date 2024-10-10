@@ -16,3 +16,7 @@ jobs:
 
       - name: hello
         run: echo "hello"
+
+      - name: git hello
+        run: echo "git hello"
+          echo "git hello world"
